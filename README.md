@@ -11,8 +11,8 @@ In challenge five we were asked to create a simple work day scheduling app using
 N/A
 
 ## usage
-This calendar will display the time and allow you to save task with a click. At the bottom there is a clear button to clear everything you had.
-Click the link to access the work day scheduler:  https://marvinblunck.github.io/weather-forcast/
+This calendar will display the time and allow you to save task with a click. At the bottom there is a clear button to clear everything you
+Click the link to access the work day scheduler:  https://marvinblunck.github.io/the-work-day-scheduler/
 
 Type in anything into the hours listed 
 
@@ -23,7 +23,7 @@ This is the preview of the page:
 ## contribution
 Used mini project 5 from our class repo.
 
-This youtube video helped me a lot with lcoal storage https://youtu.be/G0jO8kUrg-I
+This youtube video helped me a lot with local storage https://youtu.be/G0jO8kUrg-I
 
 
 ## license
